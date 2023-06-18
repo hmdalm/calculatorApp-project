@@ -61,7 +61,7 @@ public class Calculator {
 						double d1 = Double.parseDouble(a[0]);
 						double d2 = Double.parseDouble(a[1]);
 						System.out.println("Dived is executed");
-						double ans = Calculator.substract(d1, d2);
+						double ans = Calculator.divide(d1, d2);
 						System.out.println("output = " + ans);
 
 					}
